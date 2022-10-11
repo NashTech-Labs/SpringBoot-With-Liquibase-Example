@@ -1,9 +1,9 @@
-## Spring-Boot application with Liquibase [![Build Status](https://travis-ci.org/hhimanshu/spring-boot-liquibase.svg?branch=master)](https://travis-ci.org/hhimanshu/spring-boot-liquibase)
+## Spring-Boot application with Liquibase
 
 ### How to run?
 clone the codebase
 ```bash
-git clone <url>
+git clone git@github.com:knoldus/SpringBoot-With-Liquibase-Example.git
 ```
 
 compile, test, package
